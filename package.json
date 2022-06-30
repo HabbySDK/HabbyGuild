@@ -1,0 +1,16 @@
+{
+  "name": "com.habbysdk.guildsdk",
+  "displayName": "HabbyGuild",
+  "unity": "2019.4",
+  "_upm": {
+    "changelog": "### HabbyGuild\n."
+  },
+  "version": "1.0.0",
+  "description": "HabbyGuild lib",
+  "dependencies": {
+  },
+  "keywords": [
+    "HabbyGuild",
+    "HabbySDK"
+  ]
+}
